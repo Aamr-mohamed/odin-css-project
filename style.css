@@ -1,0 +1,52 @@
+.flex-container{
+    display: flex;
+    background-color:#1F2937 ;
+    color: aliceblue;
+    height: 60px;
+    justify-content:space-between;
+}
+
+
+a:link{
+    color:aliceblue;
+
+
+}   
+.flex-container > div.header{
+    margin-left: 70px;
+    font-size: 24px;
+    color: #F9FAF8;
+    align-self: center;
+    float: right;
+    
+}
+
+
+.flex-container > div.links{
+    font-size: 18px;
+    color: #E5E7EB;
+    align-self: center;
+    margin-left: auto;
+    float: left;
+    margin: 20px;
+}
+
+
+.h1-stuff.hero-main{
+    font-size: 48px;
+    color: #F9FAF8;
+    font-size: extra-bold;
+}
+
+
+.h1-stuff{
+    background-color:#1F2937;
+    font-size: 18px;
+    color: #E5E7EB;
+    
+}
+
+
+    
+    
+
