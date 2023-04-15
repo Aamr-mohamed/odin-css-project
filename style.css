@@ -1,3 +1,12 @@
+.body{
+   
+}
+/* Nav-bar */
+.back-ground{
+    background-color: #1F2937;
+    height: 600px;
+
+}
 .flex-container{
     display: flex;
     background-color:#1F2937 ;
@@ -13,7 +22,7 @@ a:link{
 
 }   
 .flex-container > div.header{
-    margin-left: 70px;
+    margin-left: 230px;
     font-size: 24px;
     color: #F9FAF8;
     align-self: center;
@@ -29,24 +38,123 @@ a:link{
     margin-left: auto;
     float: left;
     margin: 20px;
+    margin-right: 230px;
 }
 
-
-.h1-stuff.hero-main{
+/* The awesome website and the image paragraph part*/
+.hero-main{
+    font-family:'Roboto Mono',monospace;
+    font-weight:bolder;
     font-size: 48px;
-    color: #F9FAF8;
-    font-size: extra-bold;
+    color: #F9FAF8; 
+    margin-bottom: auto;
+    margin-left:230px ;
+
 }
-
-
-.h1-stuff{
-    background-color:#1F2937;
+.cat-image{
+    height:430px;
+    width: 800px;
+    float: right;
+    margin-right: 230px;
+    
+}
+.sign-up1{
+    background-color: #3882F6;
+    color: #E5E7EB;
+    border:none;
+    height: 30px;
+    width: 120px;
+    border-radius: 10px;
+    margin-left:230px ;
+    
+}
+.hero-sub{
     font-size: 18px;
     color: #E5E7EB;
+    margin-left:230px ;
+    
+}
+/* The random information paragraph and the images*/
+
+
+
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*inspiring quote part*/
+
+.inspiring-quote{
+    background-color: #E5E7EB;
+    height: 250px;
+    padding: 10px;
+}
+.quote{
+    font-size: 36px;
+    font-style: italic;
+    color: #1F2837;
+    margin-left:330px;
+    margin-right:330px;
+}
+.thor-shit{
+    text-align: justify;
+    text-align-last: right;
+    font-size:2em;
+    margin-right: 330px;
     
 }
 
 
-    
-    
 
+/*sign up paragrapgh and the signup button*/
+
+.sign-up{
+    margin-right:230px;
+    margin-left:230px;
+    background-color:#3882F6;
+    border: none;
+    border-radius:20px ;
+    height: 100px;
+    
+}
+.action-call{
+    font-size: 18px;
+    padding-top: 30px;
+    padding-left: 30px;
+    padding-bottom: 0px;
+    
+}
+.paragraph{
+    padding:1px;
+    margin-left: 20px;
+    
+}
+
+
+.sign-up2{                      /*signup button*/
+    background-color: #3882F6;
+    color: #E5E7EB;
+    border-color: #E5E7EB;
+    height: 30px;
+    width: 120px;
+    border-radius: 5px;
+    float:right;
+    margin-right: 230px;
+    margin-top: 25px;
+    
+}
